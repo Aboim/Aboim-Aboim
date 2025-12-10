@@ -1,0 +1,5 @@
+{
+  "name": "SmartCart AI",
+  "description": "A modern, AI-powered shopping list application that automatically categorizes your items and provides visual statistics.",
+  "requestFramePermissions": []
+}
